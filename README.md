@@ -5,7 +5,7 @@ I'm a **Software Engineer** based in Prishtina. I'm a microservices enthusiast a
 Check out my latest article on medium:
 <br>
 <hr>
-<a href="https://betko.medium.com/response-caching-in-net-core-18956dd06c42" style="cursor:pointer" target="_blank"><img src="https://i.imgur.com/vStYQ7l.png" height="550" alt="Response caching in .NET Core"></a>
+<a href="https://betko.medium.com/response-caching-in-net-core-18956dd06c42" style="cursor:pointer" target="_blank" rel=”noopener noreferrer”><img src="https://i.imgur.com/vStYQ7l.png" height="550" alt="Response caching in .NET Core"></a>
 <br>
 <hr>
 <p>
