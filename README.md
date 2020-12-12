@@ -1,16 +1,9 @@
-### Hi! I'm Betim 👋🏼
+### Hi there 👋
 
-I'm a **Software Engineer** based in Prishtina. I'm a microservices enthusiast and a coding passionate focused on **.NET Core** and **Javascript**, especially on **React** and **Vue**.
+I'm Betim. I'm a **Software Engineer** based in Prishtina. I'm a microservices enthusiast and a coding passionate focused on **.NET Core** and **Javascript**, especially on **React** and **Vue**. :raised_hands: 
 
-Check out my latest article on medium:
-<br>
-<hr>
-<a href="https://betko.medium.com/response-caching-in-net-core-18956dd06c42" style="cursor:pointer" target="_blank" rel=”noopener noreferrer”><img src="https://i.imgur.com/vStYQ7l.png" height="550" alt="Response caching in .NET Core"></a>
-<br>
-<hr>
-<p>
-  <a href="https://www.linkedin.com/in/betimshala/">
-    <img src="https://i.imgur.com/i2A8YEu.png" width="144" alt="Connect with me on Linkedin" title="Connect with me on Linkedin">
-  </a>
-</p>
+📫 How to reach me:
 
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/betimshala)
+
+---
